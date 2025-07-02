@@ -422,6 +422,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 **[⬆ Back to Top](#-ratings-and-review-system)**
 
-Made with ❤️ by [Mohit Jadaun](https://github.com/Mohitjadaun2026)
+Made with ❤️ by [Ankita Singh]
 
 </div>
